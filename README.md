@@ -8,7 +8,7 @@
 
 <!--右边的卡片-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giegieSong&layout=compact" />
 </a>
 
 <!---
