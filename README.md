@@ -1,4 +1,4 @@
-[<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=giegieSong">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=giegieSong">](https://metrics.lecoq.io/ouuan?template=classic)
 
 - 👋 みな、おーはーよー、akumaだ
 - 📖 まだ、日本語を勉強しています
