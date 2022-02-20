@@ -3,7 +3,7 @@
 アニメや歌が好きですよ! 📺|🎵<br/>
 もちろん、GitHubも日本語も初心者です💦<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giegieSong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=giegieSong&layout=compact"/>
                     
 <!--左边的卡片-->
 <!---
