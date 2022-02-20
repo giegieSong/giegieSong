@@ -1,12 +1,15 @@
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=giegieSong&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
 - 👋 みな、おーはーよー、akumaだ
 - 📖 まだ、日本語を勉強しています
 - 📺 アニメや歌が好きだ
 - 💦 もちろん、GitHubも日本語も初心者です
 
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=giegieSong&layout=compact"/>
+
                     
 <!--左边的卡片-->
 <!---
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=giegieSong&layout=compact"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" style="max-width: 90%;" src="https://github-readme-stats.vercel.app/api?username=akuma&show_icons=true&theme=tokyonight" />
 </a>
