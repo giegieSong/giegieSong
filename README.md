@@ -1,5 +1,5 @@
 <div>
-  <div>
+  <div style="float: left;">
     <p>みな、おーはーよー、akumaだ! 👋</p>
     <p>まだ、日本語を勉強しています! 📖</p>
     <p>アニメや歌が好きですよ! 📺|🎵</p>
@@ -12,7 +12,7 @@
   <div>
     <!--左边的卡片-->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=akuma&show_icons=true&theme=tokyonight" />
+      <img align="right" style="max-width: 90%;" src="https://github-readme-stats.vercel.app/api?username=akuma&show_icons=true&theme=tokyonight" />
     </a>
   </div>
 </div>
