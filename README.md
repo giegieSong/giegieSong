@@ -5,7 +5,7 @@
 - 📺 アニメや歌が好きだ
 - 💦 もちろん、GitHubも日本語も初心者です
 
-<img src="https://github-readme-stats.vercel.app/api?username=akuma&show_icons=true&theme=tokyonight" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=akuma&show_icons=true&theme=tokyonight" />
 
                     
 <!---
