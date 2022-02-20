@@ -1,9 +1,7 @@
-<div style="float:left">
-  - みな、おーはーよー、akumaだ! 👋<br/>
-  - まだ、日本語を勉強しています! 📖<br/>
-  - アニメや歌が好きですよ! 📺|🎵<br/>
-  - もちろん、GitHubも日本語も初心者です💦<br/>
-</div>
+- 👋 みな、おーはーよー、akumaだ <br/>
+- 📖 まだ、日本語を勉強しています <br/>
+- 📺 アニメや歌が好きだ <br/>
+- 💦 もちろん、GitHubも日本語も初心者です <br/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=giegieSong&layout=compact"/>
                     
