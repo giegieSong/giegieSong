@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## おはよー、akumaです :wave:
 
-<!-- - 📖 まだ、Javaを勉強しています -->
+<!-- - 📖  まだ、Javaを勉強しています -->
 
 [<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=giegieSong&show_icons=true&theme=tokyonight" />](https://github.com/giegieSong)
 
